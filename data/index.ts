@@ -140,7 +140,6 @@ export const testimonials = [
   },
 ];
 
-export const companies = [];
 
 export const workExperience = [
   {
