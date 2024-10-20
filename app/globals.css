@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+.text-shadow-lg {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Customize the shadow */
+}
+
+
 @layer base {
   :root {
     --background: 0 0% 100%;
