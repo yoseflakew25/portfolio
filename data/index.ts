@@ -74,6 +74,22 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Investify Landing Page",
+    des: " Created a product landing page for the Investify mobile app, featuring a clean and visually appealing design that aligns seamlessly with the platform's brand identity.",
+    img: "/investify.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://www.figma.com/design/vQw5M5ELCnLEYB7rQEGkmD/investify-landing-page?node-id=127-950&t=9uVIEc9ob5s9W3Dp-1",
+  },
+  {
+    id: 2,
+    title: "Shofer App",
+    des: "I redesigned Shofer, a versatile mobile app that combines multiple transportation services, including parking, car wash bookings, mechanic hailing, and an auto parts marketplace. The focus was on improving usability and creating a seamless, user-friendly experience.",
+    img: "/shofer.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://www.figma.com/design/mlWW2i88FEEYFKFve5nOIk/Shofer-(Copy)?node-id=4003-14468&t=LBnMJOiVGfJQgwIr-1",
+  },
+  {
+    id: 3,
     title: "CRM Platform",
     des: " Designed a CRM platform aimed at improving customer relationship management. The goal was to simplify user navigation and streamline tasks for business users.",
     img: "/crm.png",
@@ -81,7 +97,7 @@ export const projects = [
     link: "https://www.figma.com/design/pfeOEdqjWsPEeDtAHb8ATD/CRM?node-id=14609-3&t=WhldXLa7ksOKyMTZ-1",
   },
   {
-    id: 2,
+    id: 4,
     title: "Brana : A Bookstore App",
     des: "Designed a mobile app for a bookstore, with features like book browsing, personalized recommendations, and a seamless checkout process.",
     img: "/brana.png",
@@ -89,7 +105,7 @@ export const projects = [
     link: "https://www.figma.com/design/pfeOEdqjWsPEeDtAHb8ATD/CRM?node-id=14609-3&t=WhldXLa7ksOKyMTZ-1",
   },
   {
-    id: 3,
+    id: 5,
     title: "Job Finding Portal Website Design",
     des: "Designed a job portal aimed at improving the recruitment experience for job seekers and employers.",
     img: "/job.png",
@@ -97,7 +113,7 @@ export const projects = [
     link: "https://www.figma.com/design/PRGsKA4KITU5IacE59klky/JobPort%3A-A-solution-for-connecting-talent-with-business?node-id=501-49194&t=Q4JF9qzYWYRiJyjU-1",
   },
   {
-    id: 4,
+    id: 6,
     title: "Event Booking Mobile App",
     des: "Designed a mobile app for event finding and booking, providing a seamless user experience for browsing events and making bookings.",
     img: "/event.png",
@@ -105,7 +121,7 @@ export const projects = [
     link: "https://www.figma.com/design/5IcBUCt3Pq8uGG9QvidtbW/Event-Booking-App?node-id=1-4&t=BgVhRflFBTYWRCN3-1",
   },
   {
-    id: 5,
+    id: 7,
     title: "Landing Page for A2SV Eskalate",
     des: "Designed a landing page for A2SV Eskalate, focusing on driving engagement and sign-ups.",
     img: "/a2sv.png",
@@ -113,7 +129,7 @@ export const projects = [
     link: "https://www.figma.com/design/5bQ0qNXLfP5538NdO8kSah/Eskalate?node-id=3-1040&t=Q1v1xpuNL8Ya2WoG-1",
   },
   {
-    id: 6,
+    id: 8,
     title: "E-Learning App (TimihertBet)",
     des: "Designed a mobile app for middle school and high school students, offering educational content and interactive learning.",
     img: "/timirt.png",
