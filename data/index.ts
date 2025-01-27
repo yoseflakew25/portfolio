@@ -130,6 +130,14 @@ export const projects = [
   },
   {
     id: 8,
+    title: "Fetan pay",
+    des: "I designed Fetan Pay, an all-in-one finance management tool specializing in payroll management and wallet services for employers and employees. The design includes both a mobile app and a website, ensuring seamless functionality across platforms.",
+    img: "/fetan pay.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://www.figma.com/design/8oLGXdXPnQUcCu8WvUNiAV/Fetanpay?node-id=3704-567&t=wg20ISVtNLkUT8Aa-1",
+  },
+  {
+    id: 9,
     title: "E-Learning App (TimihertBet)",
     des: "Designed a mobile app for middle school and high school students, offering educational content and interactive learning.",
     img: "/timirt.png",
