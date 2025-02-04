@@ -80,14 +80,7 @@ export const projects = [
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://www.figma.com/design/vQw5M5ELCnLEYB7rQEGkmD/investify-landing-page?node-id=127-950&t=9uVIEc9ob5s9W3Dp-1",
   },
-  {
-    id: 2,
-    title: "Shofer App",
-    des: "I redesigned Shofer, a versatile mobile app that combines multiple transportation services, including parking, car wash bookings, mechanic hailing, and an auto parts marketplace. The focus was on improving usability and creating a seamless, user-friendly experience.",
-    img: "/shofer.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://www.figma.com/design/mlWW2i88FEEYFKFve5nOIk/Shofer-(Copy)?node-id=4003-14468&t=LBnMJOiVGfJQgwIr-1",
-  },
+  
   {
     id: 3,
     title: "CRM Platform",
