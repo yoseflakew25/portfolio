@@ -95,7 +95,7 @@ export const projects = [
     des: "Designed a mobile app for a bookstore, with features like book browsing, personalized recommendations, and a seamless checkout process.",
     img: "/brana.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://www.figma.com/design/pfeOEdqjWsPEeDtAHb8ATD/CRM?node-id=14609-3&t=WhldXLa7ksOKyMTZ-1",
+    link: "https://www.figma.com/design/DgRNtq3OzP4pwxamFYl5yw/Brana---Books-Mobile-App?node-id=3861-5106&t=3itYVA7joq2i86J2-1",
   },
   {
     id: 5,
