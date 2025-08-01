@@ -73,14 +73,21 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 0,
+    title: "Akil: Connecting Opportunities and Talent",
+    des: "Akil is a platform that connects organizations with youth seeking meaningful opportunities. By streamlining job postings and enhancing communication, Akil helps organizations find the right talent while offering tailored opportunities for individuals. Join us in building an inclusive community that fosters growth and impactful connections.",
+    img: "/akil.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://www.figma.com/design/4mF2oUmCdo9aYxhlspxUHz/Web-and-mobile-designs---AKIL?node-id=30873-9208&t=ZspapBb4XRXYXEBP-1",
+  },
+  {
     id: 1,
     title: "Investify Landing Page",
     des: " Created a product landing page for the Investify mobile app, featuring a clean and visually appealing design that aligns seamlessly with the platform's brand identity.",
     img: "/investify.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://www.figma.com/design/vQw5M5ELCnLEYB7rQEGkmD/investify-landing-page?node-id=127-950&t=9uVIEc9ob5s9W3Dp-1",
-  },
-  
+  },  
   {
     id: 3,
     title: "CRM Platform",
