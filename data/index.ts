@@ -81,7 +81,15 @@ export const projects = [
     link: "https://www.figma.com/design/4mF2oUmCdo9aYxhlspxUHz/Web-and-mobile-designs---AKIL?node-id=30873-9208&t=ZspapBb4XRXYXEBP-1",
   },
   {
-    id: 1,
+    id: 1, // Incremented to follow your sequence
+    title: "Begena: All-in-One Mobile Learning Platform",
+    des: "Designed an interactive mobile application dedicated to preserving and teaching the traditional Ethiopian Begena. The app features gamified lessons, audio ear-training modules, and interactive quizzes covering historical tuning structures (Kignit) to offer a modern, accessible learning experience for cultural music heritage.",
+    img: "/begena.png", // Ensure you add the asset to your public folder
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"], // Tailor this to match the planned dev tech stack
+    link: "https://www.figma.com/design/7lm38mvIdXM5sdj48KpzqB/Begena-All-in-One-App?node-id=2034-511&t=xRzWFUpq8dtwQO3R-1",
+  },
+  {
+    id: 2,
     title: "Investify Landing Page",
     des: " Created a product landing page for the Investify mobile app, featuring a clean and visually appealing design that aligns seamlessly with the platform's brand identity.",
     img: "/investify.png",
