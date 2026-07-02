@@ -7,16 +7,16 @@ export const navItems = [
 ];
 
 export const gridItems = [
-{
-  id: 1,
-  title: "I help transform complex ideas into clean, functional designs.",
-  description: "",
-  className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
-  imgClassName: "w-full h-full",
-  titleClassName: "justify-end text-white text-shadow-lg", // Added text-shadow class
-  img: "/2000.jpeg",
-  spareImg: "",
-},
+  {
+    id: 1,
+    title: "I help transform complex ideas into clean, functional designs.",
+    description: "",
+    className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
+    imgClassName: "w-full h-full",
+    titleClassName: "justify-end text-white text-shadow-lg",
+    img: "/2000.jpeg",
+    spareImg: "",
+  },
   {
     id: 2,
     title: "I value collaboration and communication.",
@@ -47,11 +47,9 @@ export const gridItems = [
     img: "/grid.svg",
     spareImg: "/b4.svg",
   },
-
   {
     id: 5,
-    title:
-      "My focus is on user-centered design, Figma skills, and usability testing, collaborating closely with teams to deliver improved designs.",
+    title: "My focus is on user-centered design, Figma skills, and usability testing, collaborating closely with teams to deliver improved designs.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -73,7 +71,7 @@ export const gridItems = [
 
 export const projects = [
   {
-    id: 0,
+    id: 1,
     title: "Akil: Connecting Opportunities and Talent",
     des: "Akil is a platform that connects organizations with youth seeking meaningful opportunities. By streamlining job postings and enhancing communication, Akil helps organizations find the right talent while offering tailored opportunities for individuals. Join us in building an inclusive community that fosters growth and impactful connections.",
     img: "/akil.png",
@@ -81,15 +79,15 @@ export const projects = [
     link: "https://www.figma.com/design/4mF2oUmCdo9aYxhlspxUHz/Web-and-mobile-designs---AKIL?node-id=30873-9208&t=ZspapBb4XRXYXEBP-1",
   },
   {
-    id: 1, // Incremented to follow your sequence
+    id: 2,
     title: "Begena: All-in-One Mobile Learning Platform",
     des: "Designed an interactive mobile application dedicated to preserving and teaching the traditional Ethiopian Begena. The app features gamified lessons, audio ear-training modules, and interactive quizzes covering historical tuning structures (Kignit) to offer a modern, accessible learning experience for cultural music heritage.",
-    img: "/begena.png", // Ensure you add the asset to your public folder
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"], // Tailor this to match the planned dev tech stack
+    img: "/begena.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://www.figma.com/design/7lm38mvIdXM5sdj48KpzqB/Begena-All-in-One-App?node-id=2034-511&t=xRzWFUpq8dtwQO3R-1",
   },
   {
-    id: 2,
+    id: 3,
     title: "Investify Landing Page",
     des: " Created a product landing page for the Investify mobile app, featuring a clean and visually appealing design that aligns seamlessly with the platform's brand identity.",
     img: "/investify.png",
@@ -97,7 +95,7 @@ export const projects = [
     link: "https://www.figma.com/design/vQw5M5ELCnLEYB7rQEGkmD/investify-landing-page?node-id=127-950&t=9uVIEc9ob5s9W3Dp-1",
   },  
   {
-    id: 3,
+    id: 4,
     title: "CRM Platform",
     des: " Designed a CRM platform aimed at improving customer relationship management. The goal was to simplify user navigation and streamline tasks for business users.",
     img: "/crm.png",
@@ -105,7 +103,7 @@ export const projects = [
     link: "https://www.figma.com/design/pfeOEdqjWsPEeDtAHb8ATD/CRM?node-id=14609-3&t=WhldXLa7ksOKyMTZ-1",
   },
   {
-    id: 4,
+    id: 5,
     title: "Brana : A Bookstore App",
     des: "Designed a mobile app for a bookstore, with features like book browsing, personalized recommendations, and a seamless checkout process.",
     img: "/brana.png",
@@ -113,7 +111,7 @@ export const projects = [
     link: "https://www.figma.com/design/DgRNtq3OzP4pwxamFYl5yw/Brana---Books-Mobile-App?node-id=3861-5106&t=3itYVA7joq2i86J2-1",
   },
   {
-    id: 5,
+    id: 6,
     title: "Job Finding Portal Website Design",
     des: "Designed a job portal aimed at improving the recruitment experience for job seekers and employers.",
     img: "/job.png",
@@ -121,7 +119,7 @@ export const projects = [
     link: "https://www.figma.com/design/PRGsKA4KITU5IacE59klky/JobPort%3A-A-solution-for-connecting-talent-with-business?node-id=501-49194&t=Q4JF9qzYWYRiJyjU-1",
   },
   {
-    id: 6,
+    id: 7,
     title: "Event Booking Mobile App",
     des: "Designed a mobile app for event finding and booking, providing a seamless user experience for browsing events and making bookings.",
     img: "/event.png",
@@ -129,7 +127,7 @@ export const projects = [
     link: "https://www.figma.com/design/5IcBUCt3Pq8uGG9QvidtbW/Event-Booking-App?node-id=1-4&t=BgVhRflFBTYWRCN3-1",
   },
   {
-    id: 7,
+    id: 8,
     title: "Landing Page for A2SV Eskalate",
     des: "Designed a landing page for A2SV Eskalate, focusing on driving engagement and sign-ups.",
     img: "/a2sv.png",
@@ -137,7 +135,7 @@ export const projects = [
     link: "https://www.figma.com/design/5bQ0qNXLfP5538NdO8kSah/Eskalate?node-id=3-1040&t=Q1v1xpuNL8Ya2WoG-1",
   },
   {
-    id: 8,
+    id: 9,
     title: "Fetan pay",
     des: "I designed Fetan Pay, an all-in-one finance management tool specializing in payroll management and wallet services for employers and employees. The design includes both a mobile app and a website, ensuring seamless functionality across platforms.",
     img: "/fetan pay.png",
@@ -145,7 +143,7 @@ export const projects = [
     link: "https://www.figma.com/design/8oLGXdXPnQUcCu8WvUNiAV/Fetanpay?node-id=3704-567&t=wg20ISVtNLkUT8Aa-1",
   },
   {
-    id: 9,
+    id: 10,
     title: "E-Learning App (TimihertBet)",
     des: "Designed a mobile app for middle school and high school students, offering educational content and interactive learning.",
     img: "/timirt.png",
@@ -168,10 +166,8 @@ export const testimonials = [
     name: "Yohannes Teshome",
     title: "Web Developer at A2SV",
     thumbnail: "/wesagn.jpeg",
-
   },
 ];
-
 
 export const workExperience = [
   {
@@ -185,14 +181,14 @@ export const workExperience = [
     id: 2,
     title: "Freelance UI/UX Designer – 2022-Present",
     desc: "Designed user-friendly web and mobile applications for startups and established clients, ensuring seamless navigation and functionality.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "UI Designer and Front-End Developer @ Rock Library, AASTU – 2022-2023",
     desc: "Led UI design for an informative site on Ethiopia’s rocks and minerals, collaborating with the mining department.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
@@ -210,7 +206,7 @@ export const socialMedia = [
     img: "/git.svg",
   },
   {
-    id: 3,
+    id: 2,
     img: "/link.svg",
   },
 ];
